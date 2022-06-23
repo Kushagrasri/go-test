@@ -1,0 +1,31 @@
+Type: space
+Time: May 2, 2022 at 6:35pm (IST)
+Showing nodes accounting for 4103.22kB, 100% of 4103.22kB total
+      flat  flat%   sum%        cum   cum%
+ 1562.84kB 38.09% 38.09%  1562.84kB 38.09%  startProfiling
+ 1000.78kB 24.39% 62.48%  1000.78kB 24.39%  (external)
+  513.60kB 12.52% 75.00%   513.60kB 12.52%  Mime.lookup
+  513.19kB 12.51% 87.50%   513.19kB 12.51%  adjustOffset
+  512.81kB 12.50%   100%   512.81kB 12.50%  encode
+         0     0%   100%  2589.26kB 63.10%  (anonymous)
+         0     0%   100%  2075.66kB 50.59%  Promise
+         0     0%   100%  2075.66kB 50.59%  __awaiter
+         0     0%   100%  1562.84kB 38.09%  app
+         0     0%   100%   513.60kB 12.52%  contentType
+         0     0%   100%  1562.84kB 38.09%  dispatch
+         0     0%   100%  1562.84kB 38.09%  emit
+         0     0%   100%  1562.84kB 38.09%  expressInit
+         0     0%   100%  1562.84kB 38.09%  handle
+         0     0%   100%  2075.66kB 50.59%  next
+         0     0%   100%  1562.84kB 38.09%  parserOnHeadersComplete
+         0     0%   100%  1562.84kB 38.09%  parserOnIncoming
+         0     0%   100%   513.19kB 12.51%  processCallback
+         0     0%   100%   513.60kB 12.52%  processTicksAndRejections
+         0     0%   100%  1562.84kB 38.09%  process_params
+         0     0%   100%  1562.84kB 38.09%  profile
+         0     0%   100%  1562.84kB 38.09%  query
+         0     0%   100%   513.60kB 12.52%  send
+         0     0%   100%   513.19kB 12.51%  slice
+         0     0%   100%  1562.84kB 38.09%  start
+         0     0%   100%   513.19kB 12.51%  subarray
+         0     0%   100%  1562.84kB 38.09%  trim_prefix
